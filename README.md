@@ -1,4 +1,4 @@
-Credit to Sanchit Gandhi for starter code, loading/fine-tuning with commonvoice.
+Credit to Sanchit Gandhi for starter code, README, and loading/fine-tuning with commonvoice.
 
 POSSIBLE TODOS for team, after grading deadline:
 - add AccentDB classifier notebook (Mohamed) and integrate into a fluid pipeline (same notebook as finetune model)
