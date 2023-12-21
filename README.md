@@ -1,3 +1,11 @@
+Credit to Sanchit Gandhi for starter code, loading/fine-tuning with commonvoice.
+
+POSSIBLE TODOS for team, after grading deadline:
+- add AccentDB classifier notebook (Mohamed) and integrate into a fluid pipeline (same notebook as finetune model)
+- Speech Accent Archive loading and inference code (Laura)
+- tune hyperparameters
+- support work with more collaborator credits and references
+
 # Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers
 
 CMU 11-785 Intro to Deep Learning Course Project
